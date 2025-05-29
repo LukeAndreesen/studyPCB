@@ -9,3 +9,5 @@ devce connects to the user's computer via USB for power and serial connectivity
 with the UI which can be interacted with using the board's buttons and 
 potentiometer dial. This was my first independent PCB board, and I really
 enjoyed the process of designing, soldering, and programming it!
+
+A Bill of Materials is available as CSV in this repo, along with KiCad schematics.
